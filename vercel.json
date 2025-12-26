@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "pages/api/parse-demo.ts": {
+      "maxDuration": 30
+    }
+  }
+}
